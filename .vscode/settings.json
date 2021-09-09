@@ -1,0 +1,11 @@
+{
+        "files.associations": {
+            "*.js": "javascriptreact"
+        },
+    "autoprefixer.ignoreFiles": [
+    
+    ],
+    "json.schemas": [
+    
+    ]
+}
